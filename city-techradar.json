@@ -3,73 +3,85 @@
     "name": "MVVM",
     "ring": "Adopt",
     "quadrant": "Techniques / Технологии",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "Object - Orientired Programming",
     "ring": "Adopt",
     "quadrant": "Techniques / Технологии",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "Citygile",
     "ring": "Trial",
     "quadrant": "Techniques / Технологии",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "SPM",
     "ring": "Assess",
     "quadrant": "Techniques / Технологии",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "Kanban",
     "ring": "Hold",
     "quadrant": "Techniques / Технологии",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "Reactive Programming",
     "ring": "Adopt",
     "quadrant": "Techniques / Технологии",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "Dependency Injection",
     "ring": "Adopt",
     "quadrant": "Techniques / Технологии",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "Auto-generators",
     "ring": "Adopt",
     "quadrant": "Techniques / Технологии",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "Feature Toggles",
     "ring": "Adopt",
     "quadrant": "Techniques / Технологии",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "Unit testing",
     "ring": "Adopt",
     "quadrant": "Techniques / Технологии",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "Cocoapods / Cocoapods-Binary",
     "ring": "Adopt",
     "quadrant": "Techniques / Технологии",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "Swift",
     "ring": "Adopt",
     "quadrant": "Lang & Frameworks / Языки и фреймворки",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "CityMocks",
@@ -82,198 +94,231 @@
     "name": "Quick/Nimble",
     "ring": "Hold",
     "quadrant": "Lang & Frameworks / Языки и фреймворки",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "ReactiveSwift",
     "ring": "Adopt",
     "quadrant": "Lang & Frameworks / Языки и фреймворки",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "Swinject",
     "ring": "Adopt",
     "quadrant": "Lang & Frameworks / Языки и фреймворки",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "Coordinators",
     "ring": "Assess",
     "quadrant": "Lang & Frameworks / Языки и фреймворки",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "Objective-C",
     "ring": "Hold",
     "quadrant": "Lang & Frameworks / Языки и фреймворки",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "IVCollectionKit",
     "ring": "Adopt",
     "quadrant": "Lang & Frameworks / Языки и фреймворки",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "Mixbox",
     "ring": "Adopt",
     "quadrant": "Lang & Frameworks / Языки и фреймворки",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "Cartography",
     "ring": "Adopt",
     "quadrant": "Lang & Frameworks / Языки и фреймворки",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "CityPopups",
     "ring": "Adopt",
     "quadrant": "Lang & Frameworks / Языки и фреймворки",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "ReactiveCocoa",
     "ring": "Hold",
     "quadrant": "Lang & Frameworks / Языки и фреймворки",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "Lottie ios",
     "ring": "Trial",
     "quadrant": "Lang & Frameworks / Языки и фреймворки",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "SwiftyJSON",
     "ring": "Hold",
     "quadrant": "Lang & Frameworks / Языки и фреймворки",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "Ruby on rails",
     "ring": "Adopt",
     "quadrant": "Lang & Frameworks / Языки и фреймворки",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "Realm DB",
     "ring": "Adopt",
     "quadrant": "Platforms / Платформа ",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "2GIS",
     "ring": "Adopt",
     "quadrant": "Platforms / Платформа ",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "Google Maps",
     "ring": "Hold",
     "quadrant": "Platforms / Платформа ",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "Gitlab",
     "ring": "Adopt",
     "quadrant": "Platforms / Платформа ",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "Kibana",
     "ring": "Adopt",
     "quadrant": "Platforms / Платформа ",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "Firebase",
     "ring": "Adopt",
     "quadrant": "Platforms / Платформа ",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "TeamCity CI",
     "ring": "Adopt",
     "quadrant": "Platforms / Платформа ",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "New Relic",
     "ring": "Hold",
     "quadrant": "Platforms / Платформа ",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "Prometheus / Victoriametrics",
     "ring": "Assess",
     "quadrant": "Platforms / Платформа ",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "SwiftGen",
     "ring": "Adopt",
     "quadrant": "Tools / Тулзы ",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "FigmaExport",
     "ring": "Adopt",
     "quadrant": "Tools / Тулзы ",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "SwiftLint",
     "ring": "Adopt",
     "quadrant": "Tools / Тулзы ",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "Danger ",
     "ring": "Adopt",
     "quadrant": "Tools / Тулзы ",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "SwaggerGen",
     "ring": "Assess",
     "quadrant": "Tools / Тулзы ",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "Kotogen",
     "ring": "Adopt",
     "quadrant": "Tools / Тулзы ",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "Memory Leaks detecting",
     "ring": "Adopt",
     "quadrant": "Tools / Тулзы ",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "Broken Constraints detecting",
     "ring": "Adopt",
     "quadrant": "Tools / Тулзы ",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "Debug Panel",
     "ring": "Adopt",
     "quadrant": "Tools / Тулзы ",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "Sonarqube",
     "ring": "Hold",
     "quadrant": "Tools / Тулзы ",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   },
   {
     "name": "libnotify",
     "ring": "Hold",
     "quadrant": "Tools / Тулзы ",
-    "isNew": "ЛОЖЬ"
+    "isNew": "ЛОЖЬ",
+    "description": "none"
   }
 ]
