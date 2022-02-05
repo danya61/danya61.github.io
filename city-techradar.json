@@ -88,7 +88,7 @@
     "ring": "Adopt",
     "quadrant": "Lang & Frameworks",
     "isNew": "FALSE",
-    "description": "Генерация моков для unit тестирования"
+    "description": "Generate unit test mocks"
   },
   {
     "name": "Quick/Nimble",
