@@ -1,0 +1,279 @@
+[
+  {
+    "name": "MVVM",
+    "ring": "Adopt",
+    "quadrant": "Techniques / Технологии",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "Object - Orientired Programming",
+    "ring": "Adopt",
+    "quadrant": "Techniques / Технологии",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "Citygile",
+    "ring": "Trial",
+    "quadrant": "Techniques / Технологии",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "SPM",
+    "ring": "Assess",
+    "quadrant": "Techniques / Технологии",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "Kanban",
+    "ring": "Hold",
+    "quadrant": "Techniques / Технологии",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "Reactive Programming",
+    "ring": "Adopt",
+    "quadrant": "Techniques / Технологии",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "Dependency Injection",
+    "ring": "Adopt",
+    "quadrant": "Techniques / Технологии",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "Auto-generators",
+    "ring": "Adopt",
+    "quadrant": "Techniques / Технологии",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "Feature Toggles",
+    "ring": "Adopt",
+    "quadrant": "Techniques / Технологии",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "Unit testing",
+    "ring": "Adopt",
+    "quadrant": "Techniques / Технологии",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "Cocoapods / Cocoapods-Binary",
+    "ring": "Adopt",
+    "quadrant": "Techniques / Технологии",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "Swift",
+    "ring": "Adopt",
+    "quadrant": "Lang & Frameworks / Языки и фреймворки",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "CityMocks",
+    "ring": "Adopt",
+    "quadrant": "Lang & Frameworks / Языки и фреймворки",
+    "isNew": "ЛОЖЬ",
+    "description": "Генерация моков для unit тестирования"
+  },
+  {
+    "name": "Quick/Nimble",
+    "ring": "Hold",
+    "quadrant": "Lang & Frameworks / Языки и фреймворки",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "ReactiveSwift",
+    "ring": "Adopt",
+    "quadrant": "Lang & Frameworks / Языки и фреймворки",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "Swinject",
+    "ring": "Adopt",
+    "quadrant": "Lang & Frameworks / Языки и фреймворки",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "Coordinators",
+    "ring": "Assess",
+    "quadrant": "Lang & Frameworks / Языки и фреймворки",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "Objective-C",
+    "ring": "Hold",
+    "quadrant": "Lang & Frameworks / Языки и фреймворки",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "IVCollectionKit",
+    "ring": "Adopt",
+    "quadrant": "Lang & Frameworks / Языки и фреймворки",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "Mixbox",
+    "ring": "Adopt",
+    "quadrant": "Lang & Frameworks / Языки и фреймворки",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "Cartography",
+    "ring": "Adopt",
+    "quadrant": "Lang & Frameworks / Языки и фреймворки",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "CityPopups",
+    "ring": "Adopt",
+    "quadrant": "Lang & Frameworks / Языки и фреймворки",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "ReactiveCocoa",
+    "ring": "Hold",
+    "quadrant": "Lang & Frameworks / Языки и фреймворки",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "Lottie ios",
+    "ring": "Trial",
+    "quadrant": "Lang & Frameworks / Языки и фреймворки",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "SwiftyJSON",
+    "ring": "Hold",
+    "quadrant": "Lang & Frameworks / Языки и фреймворки",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "Ruby on rails",
+    "ring": "Adopt",
+    "quadrant": "Lang & Frameworks / Языки и фреймворки",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "Realm DB",
+    "ring": "Adopt",
+    "quadrant": "Platforms / Платформа ",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "2GIS",
+    "ring": "Adopt",
+    "quadrant": "Platforms / Платформа ",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "Google Maps",
+    "ring": "Hold",
+    "quadrant": "Platforms / Платформа ",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "Gitlab",
+    "ring": "Adopt",
+    "quadrant": "Platforms / Платформа ",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "Kibana",
+    "ring": "Adopt",
+    "quadrant": "Platforms / Платформа ",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "Firebase",
+    "ring": "Adopt",
+    "quadrant": "Platforms / Платформа ",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "TeamCity CI",
+    "ring": "Adopt",
+    "quadrant": "Platforms / Платформа ",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "New Relic",
+    "ring": "Hold",
+    "quadrant": "Platforms / Платформа ",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "Prometheus / Victoriametrics",
+    "ring": "Assess",
+    "quadrant": "Platforms / Платформа ",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "SwiftGen",
+    "ring": "Adopt",
+    "quadrant": "Tools / Тулзы ",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "FigmaExport",
+    "ring": "Adopt",
+    "quadrant": "Tools / Тулзы ",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "SwiftLint",
+    "ring": "Adopt",
+    "quadrant": "Tools / Тулзы ",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "Danger ",
+    "ring": "Adopt",
+    "quadrant": "Tools / Тулзы ",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "SwaggerGen",
+    "ring": "Assess",
+    "quadrant": "Tools / Тулзы ",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "Kotogen",
+    "ring": "Adopt",
+    "quadrant": "Tools / Тулзы ",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "Memory Leaks detecting",
+    "ring": "Adopt",
+    "quadrant": "Tools / Тулзы ",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "Broken Constraints detecting",
+    "ring": "Adopt",
+    "quadrant": "Tools / Тулзы ",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "Debug Panel",
+    "ring": "Adopt",
+    "quadrant": "Tools / Тулзы ",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "Sonarqube",
+    "ring": "Hold",
+    "quadrant": "Tools / Тулзы ",
+    "isNew": "ЛОЖЬ"
+  },
+  {
+    "name": "libnotify",
+    "ring": "Hold",
+    "quadrant": "Tools / Тулзы ",
+    "isNew": "ЛОЖЬ"
+  }
+]
